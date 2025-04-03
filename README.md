@@ -1,2 +1,2 @@
 # New Project
-This folder was created from local
+This folder was created from local.
